@@ -15,10 +15,11 @@
 - [ ] **天气预报：** 接入天气预报，给你穿衣建议
 - [ ] **更多功能：** 持续开发中......
 
-好东西当然要分享啦～😄😄
+好东西当然要分享啦，验证消息请填写github～😄😄
 
 *为防失联，记得关注收藏本页面哦～～*
 
+联系开发者：*chatkongkong@gmail.com*
 
 <img src="https://user-images.githubusercontent.com/117160562/233533901-e929321c-d5c3-4a87-9ec6-4b3b4b5038a9.png" width="300px">
 
