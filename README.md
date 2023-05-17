@@ -21,7 +21,6 @@
 
 联系开发者：*chatkongkong@gmail.com*
 
-<img src="https://user-images.githubusercontent.com/117160562/233533901-e929321c-d5c3-4a87-9ec6-4b3b4b5038a9.png" width="300px">
 
 
 
